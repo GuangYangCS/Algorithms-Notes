@@ -1,5 +1,5 @@
 # Summary
 
-* Array
+* [Array](array.md)
 * String
 
